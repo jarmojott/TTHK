@@ -10,15 +10,15 @@ internal class Program
 
         if (number < 0)
         {
-            Console.WriteLine(number + " on negatiivne arv");
+            Console.WriteLine(number + " on negatiivne arv.");
         }
         else if (number > 0)
         {
-            Console.WriteLine(number + " on posiitiivne arv");
+            Console.WriteLine(number + " on posiitiivne arv.");
         }
         else
         {
-            Console.WriteLine("0 pole posiitiivne ega negatiivne arv");
+            Console.WriteLine("0 pole posiitiivne ega negatiivne arv.");
         }
     }
 }
