@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IFElseW51N/1.0.0": {
+        "runtime": {
+          "IFElseW51N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IFElseW51N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
