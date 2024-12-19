@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingCalculation", "RingCalculation.csproj", "{BACA1F87-9949-41CB-B0DE-07D185E8B481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACA1F87-9949-41CB-B0DE-07D185E8B481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACA1F87-9949-41CB-B0DE-07D185E8B481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACA1F87-9949-41CB-B0DE-07D185E8B481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACA1F87-9949-41CB-B0DE-07D185E8B481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DEA904-761D-467A-B2E2-B9738D8EE330}
+	EndGlobalSection
+EndGlobal
