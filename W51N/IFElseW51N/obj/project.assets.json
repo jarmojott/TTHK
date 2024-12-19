@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IFElseW51N\\IFElseW51N.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\f\\TTHK\\W51N\\IFElseW51N\\IFElseW51N.csproj",
       "projectName": "IFElseW51N",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\IFElseW51N\\IFElseW51N.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\f\\TTHK\\W51N\\IFElseW51N\\IFElseW51N.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\IFElseW51N\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\f\\TTHK\\W51N\\IFElseW51N\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

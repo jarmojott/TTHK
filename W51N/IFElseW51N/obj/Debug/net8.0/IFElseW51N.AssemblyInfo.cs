@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IFElseW51N")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b36808060a867337d3e13461631bde44770d88ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("IFElseW51N")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IFElseW51N")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
