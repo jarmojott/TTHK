@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopTriangle3", "ForLoopTriangle3\ForLoopTriangle3.csproj", "{488983C1-B13D-4A03-9314-D60E6C21C23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488983C1-B13D-4A03-9314-D60E6C21C23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488983C1-B13D-4A03-9314-D60E6C21C23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488983C1-B13D-4A03-9314-D60E6C21C23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488983C1-B13D-4A03-9314-D60E6C21C23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56959E2F-2043-4F42-8F64-F6007B973ACA}
+	EndGlobalSection
+EndGlobal
