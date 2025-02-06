@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10" pages="2">
+  <diagram name="Mina" id="PZYnJRZevxDwI2HOewi5">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0zeZhXQBVPiCz0n2Xap-1" target="8MZCemMcqPsUIvvhUxH5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="77" y="3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Ridade arvu määramine" rows="" id="v0zeZhXQBVPiCz0n2Xap-1">
+          <mxCell style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+            <mxGeometry x="26.5" y="-111" width="123" height="74" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-2" target="v0zeZhXQBVPiCz0n2Xap-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-2" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="38" y="-221" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-3" value="FINISH" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="403" y="364" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-5" value="Reavahetus&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="231" y="173" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-6" value="&lt;div&gt;Rea numbri lisamine&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="38" y="13" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-11" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-9" target="8MZCemMcqPsUIvvhUxH5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-72" y="45" as="targetPoint" />
+            <mxPoint x="-77" y="189.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-118" y="220" />
+              <mxPoint x="-118" y="63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-12" value="JA" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.4000244140625" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-9" value="Kas rida on täidetud?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="38" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-6" target="8MZCemMcqPsUIvvhUxH5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-13" target="8MZCemMcqPsUIvvhUxH5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="-62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="453" y="63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-17" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" connectable="0" vertex="1" parent="8MZCemMcqPsUIvvhUxH5-16">
+          <mxGeometry x="-0.8089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-13" value="Kas read on läbitud?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="403" y="173" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-5" target="8MZCemMcqPsUIvvhUxH5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MZCemMcqPsUIvvhUxH5-15" value="JA" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8MZCemMcqPsUIvvhUxH5-13" target="8MZCemMcqPsUIvvhUxH5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PM6-EAhkB8lqo6CUD4QI" name="Õpetaja">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-1" target="IEZDMQfxzLIDxH9cp8mj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="58" y="-185" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-2" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="395" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Int32 rows;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Console.Write(&quot;Sisesta ridade arv: &quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; rows = Convert.ToInt32(Console.ReadLine());&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="-73" width="314" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-4" value="for (int i = 1; i &amp;lt;= rows; i++)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4.5" y="122" width="207" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-3" target="IEZDMQfxzLIDxH9cp8mj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="IEZDMQfxzLIDxH9cp8mj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="172" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-12" value="YES" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-8" target="IEZDMQfxzLIDxH9cp8mj-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="462" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-15" value="NO" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-8" target="IEZDMQfxzLIDxH9cp8mj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-8" value="for (int j = 1; j &amp;lt;= i; j++)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="7" y="361" width="215" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-4" target="IEZDMQfxzLIDxH9cp8mj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-11" value="&amp;nbsp;Console.WriteLine();" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="291" y="411.5" width="123" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="172" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-63" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IEZDMQfxzLIDxH9cp8mj-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-112" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEZDMQfxzLIDxH9cp8mj-14" value="Console.Write(i);" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="67" y="616" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
