@@ -1,0 +1,60 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Leht-1" id="YiZEQ6MTBXLRpFgTMwuD">
+    <mxGraphModel dx="1604" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-1" target="L6twlFNl-qIK7_Ur-Po2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-1" value="Algus" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-2" value="Lõpp" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-3" target="L6twlFNl-qIK7_Ur-Po2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Console.WriteLine(&quot;Decimal to binary&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; string binaryNumber = &quot;&quot;;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="160" width="275" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-5" value="Console.Write(&quot;Input first number: &quot;);&lt;div&gt;int n1 = Convert.ToInt32(Console.ReadLine());&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-10" value="FALSE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-7" target="L6twlFNl-qIK7_Ur-Po2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-14" value="TRUE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-7" target="L6twlFNl-qIK7_Ur-Po2-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-7" value="while (n1 &amp;gt; 0)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-5" target="L6twlFNl-qIK7_Ur-Po2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-9" value="Console.WriteLine(binaryNumber);" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="595" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-15" target="L6twlFNl-qIK7_Ur-Po2-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="740" />
+              <mxPoint x="400" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-15" value="int reminder = n1 % 2;&lt;div&gt;binaryNumber = reminder + binaryNumber;&lt;div&gt;n1 /= 2;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="580" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L6twlFNl-qIK7_Ur-Po2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L6twlFNl-qIK7_Ur-Po2-9" target="L6twlFNl-qIK7_Ur-Po2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
